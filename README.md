@@ -1,6 +1,11 @@
 rosbridge_suite
 ===============
 
+**changes to original file**
+added a rosbridge_websocket.launch.py to launch from another launch-file
+
+
+
 #### Server Implementations of the rosbridge v2 Protocol
 
 rosbridge provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more. rosbridge supports a variety of transport layers, including WebSockets and TCP. For information on the protocol itself, see the [rosbridge protocol specification](ROSBRIDGE_PROTOCOL.md).
