@@ -1,5 +1,9 @@
 rosbridge_suite
 ===============
+#### THIS IS A FORKED VERSION! Added a .launch.py data (converted from xml) to launch automatically in ros2 foxy.
+
+
+
 
 #### Server Implementations of the rosbridge v2 Protocol
 
